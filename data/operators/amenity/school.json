@@ -8429,24 +8429,24 @@
       }
     },
     {
-      "displayName": "Department of General and Higher Education",
+      "displayName": "Department of General and Higher Education, Kerla",
       "id": "departmentofgeneralandhighereducation-224052",
       "locationSet": {"include": ["in"]},
       "matchNames": ["department of education"],
       "tags": {
         "amenity": "school",
-        "operator": "Department of General and Higher Education",
+        "operator": "Department of General and Higher Education, Kerla",
         "operator:wikidata": "Q5260320"
       }
     },
     {
-      "displayName": "Department of Primary and Secondary Education",
+      "displayName": "Department of Primary and Secondary Education, Kerla",
       "id": "departmentofprimaryandsecondaryeducation-224052",
       "locationSet": {"include": ["in"]},
       "matchNames": ["department of education"],
       "tags": {
         "amenity": "school",
-        "operator": "Department of Primary and Secondary Education",
+        "operator": "Department of Primary and Secondary Education, Kerla",
         "operator:wikidata": "Q111467381"
       }
     },
